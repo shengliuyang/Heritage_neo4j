@@ -12,8 +12,8 @@ This project is a World Heritage Smart Classroom Assistant that utilizes a Neo4j
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/shengliuyang/Heritage_neo4j.git
+   cd Heritage_neo4j
    ```
 
 2. **Install the required Python packages**
